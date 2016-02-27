@@ -1,0 +1,27 @@
+.archives
+  margin-top: rhythm(2)
+
+.archive
+  +row
+
+  border-top: 1px solid $color-light-grey
+  padding-top: rhythm(0.2)
+
+  &__title
+    +span(8 of 12)
+
+    a
+      background: none
+      color: darken($color-grey, 10%)
+
+      &:hover
+        color: $color-green
+
+  &__time
+    +span(last 4 of 12)
+
+    color: $color-grey
+    text-align: right
+
+  &:last-child
+    border-bottom: 1px solid $color-light-grey

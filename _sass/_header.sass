@@ -1,0 +1,28 @@
+.header
+  +row
+
+  margin-bottom: rhythm(2)
+  margin-top: rhythm(3)
+
+  &:after
+    color: $color-grey
+    content: "—"
+    display: block
+
+  a
+    background: none
+
+  &__logo
+    +span(4 of 12)
+
+    display: block
+    font-weight: $font-weight-bold
+
+  &__nav
+    +span(last 8 of 12)
+
+    a
+      color: $color-grey
+
+      &:hover
+        color: $color-green

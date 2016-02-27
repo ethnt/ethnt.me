@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% for block in page.blocks %}
+  <div class="block">
+    <h3 class="block__title">{{ block.title }}</h3>
+    <div class="block__body">
+      {% if block.type == "text" %}
+        {{ block.body | markdownify }}
+      {% endif %}
+
+      {% if block.type == "entries" %}
+        {% for entry in block.entries %}
+          <div class="entry">
+            <h4 class="entry__title"><a href="{{ entry.link }}">{{ entry.title }}</a></h4>
+            <p class="entry__description">{{ entry.description }}</p>
+            <p class="entry__range">{{ entry.range }}</p>
+          </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}

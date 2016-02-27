@@ -1,0 +1,46 @@
+.post
+  +row
+
+  &__title
+    font-weight: $font-weight-semibold
+    font-size: $font-size-2
+
+    a
+      background: -webkit-linear-gradient(bottom,#fefefe 50%,#d1d1c3 50%)
+      background-repeat: repeat-x
+      background-size: 100% 2px
+      background-position: 0 31px
+
+  &__content
+    margin: rhythm(1) 0
+
+    blockquote
+      border-left: 3px solid $color-light-grey
+      padding-left: rhythm(0.5)
+      margin-bottom: rhythm(0.5)
+      margin-top: rhythm(0.5)
+
+    h2, h3, h4, h5, h6
+      font-weight: $font-weight-semibold
+      margin-top: rhythm(1)
+
+    h2
+      font-size: $font-size-1
+
+    h3
+      font-size: $font-size-n1
+
+    h4, h5, h6
+      font-size: $font-size-n2
+      text-transform: uppercase
+
+    p + p
+      text-indent: rhythm(1)
+
+    ul, ol
+      margin-bottom: rhythm(0.5)
+      margin-top: rhythm(0.5)
+
+  &__footer
+    color: $color-grey
+    font-style: italic

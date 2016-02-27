@@ -1,0 +1,29 @@
+---
+title: Ethan Turkeltaub
+url: http://ethnt.me
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/notes/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
+social:
+  - name: Twitter
+    url: https://twitter.com/ethnt
+  - name: GitHub
+    url: https://github.com/eturk

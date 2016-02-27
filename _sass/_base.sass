@@ -1,0 +1,25 @@
+html
+  border-top: 5px solid $color-light-grey
+
+body
+  +font-smoothing(antialiased)
+
+  background: $color-white
+  color: $color-black
+  font-size: $font-size-base
+  font-family: $font-family-serif
+  line-height: $line-height-normal
+
+a
+  background: -webkit-linear-gradient(bottom,#fefefe 50%,#d1d1c3 50%)
+  background-repeat: repeat-x
+  background-size: 100% 2px
+  background-position: 0 26px
+  color: darken($color-black, 10%)
+  text-decoration: none
+
+  &:hover
+    color: $color-green
+
+.wf-loading
+  visibility: hidden
