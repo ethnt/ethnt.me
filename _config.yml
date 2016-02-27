@@ -1,6 +1,6 @@
 ---
-title: Ethan Turkeltaub (v2)
-url: http://v2.ethnt.me
+title: Ethan Turkeltaub
+url: http://ethnt.me
 timezone: America/New_York
 collections:
   posts:
@@ -15,10 +15,15 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: "/notes/:title/"
 - scope:
     path: ''
     type: pages
   values:
     layout: page
 permalink: pretty
+social:
+  - name: Twitter
+    url: https://twitter.com/ethnt
+  - name: GitHub
+    url: https://github.com/eturk
