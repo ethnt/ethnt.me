@@ -15,7 +15,7 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: "/notes/:title/"
 - scope:
     path: ''
     type: pages
