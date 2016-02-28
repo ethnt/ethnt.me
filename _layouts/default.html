@@ -22,7 +22,7 @@
   <body>
     <header class="header" role="header">
       <span class="header__logo">
-        <a href="{{ site.baseurl }}">Ethan Turkeltaub</a>
+        <a href="{{ site.url }}">{{ site.title }}</a>
       </span>
       <nav class="nav header__nav">
         <ul class="nav__list nav__list--right">
@@ -47,7 +47,7 @@
           {% endfor %}
         </ul>
       </nav>
-      <p class="footer__copyright">&copy; 2016 <a href="#">Ethan Turkeltaub</a>.</p>
+      <p class="footer__copyright">&copy; 2016 <a href="{{ site.url }}">{{ site.title }}</a>.</p>
     </footer>
     {% include analytics.html %}
   </body>
