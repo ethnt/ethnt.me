@@ -22,6 +22,7 @@ defaults:
   values:
     layout: page
 permalink: pretty
+ga: UA-33270842-1
 social:
 - name: Twitter
   url: https://twitter.com/ethnt
