@@ -10,6 +10,9 @@
   &__title
     +span(8 of 12)
 
+    @media (max-width: $breakpoint)
+      +span(6 of 12)
+
     a
       background: none
       color: darken($color-grey, 10%)
@@ -19,6 +22,9 @@
 
   &__time
     +span(last 4 of 12)
+
+    @media (max-width: $breakpoint)
+      +span(last 6 of 12)
 
     color: $color-grey
     text-align: right

@@ -18,8 +18,14 @@
     display: block
     font-weight: $font-weight-bold
 
+    @media (max-width: $breakpoint)
+      +span(last 12 of 12)
+
   &__nav
     +span(last 8 of 12)
+
+    @media (max-width: $breakpoint)
+      +span(last 12 of 12)
 
     a
       color: $color-grey
