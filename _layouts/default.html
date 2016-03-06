@@ -20,37 +20,39 @@
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
   </head>
   <body>
-    <header class="header" role="header">
-      <span class="header__logo">
-        <a href="{{ site.url }}">{{ site.title }}</a>
-      </span>
-      <nav class="nav header__nav">
-        <ul class="nav__list nav__list--right">
-          {% for page in site.pages %}
-            {% if page.title %}
+    <div id="page">
+      <header class="header" role="header">
+        <span class="header__logo">
+          <a href="{{ site.url }}">{{ site.title }}</a>
+        </span>
+        <nav class="nav header__nav">
+          <ul class="nav__list nav__list--right">
+            {% for page in site.pages %}
+              {% if page.title %}
+                <li class="nav__item">
+                  <a class="nav__link" href="{{ page.url }}">{{ page.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
+      </header>
+      <main class="main" role="main">
+        {{ content }}
+      </main>
+      <footer class="footer" role="footer">
+        <nav class="nav footer__nav">
+          <ul class="nav__list">
+            {% for link in site.social %}
               <li class="nav__item">
-                <a class="nav__link" href="{{ page.url }}">{{ page.title }}</a>
+                <a class="nav__link" href="{{ link.url }}">{{ link.name }}</a>
               </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
-    </header>
-    <main class="main" role="main">
-      {{ content }}
-    </main>
-    <footer class="footer" role="footer">
-      <nav class="nav footer__nav">
-        <ul class="nav__list">
-          {% for link in site.social %}
-            <li class="nav__item">
-              <a class="nav__link" href="{{ link.url }}">{{ link.name }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </nav>
-      <p class="footer__copyright">&copy; 2016 <a href="{{ site.url }}">{{ site.title }}</a>.</p>
-    </footer>
+            {% endfor %}
+          </ul>
+        </nav>
+        <p class="footer__copyright">&copy; 2016 <a href="{{ site.url }}">{{ site.title }}</a>.</p>
+      </footer>
+    </div>
     {% include analytics.html %}
   </body>
 </html>
