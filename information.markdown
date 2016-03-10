@@ -2,7 +2,6 @@
 title: Information
 date: 2016-01-02 07:06:00 -05:00
 permalink: "/"
-layout: information
 blocks:
 - title: About
   type: text
@@ -29,7 +28,7 @@ blocks:
   - title: Fanzter
     link: http://en.wikipedia.org/wiki/Fanzter
     description: Intern → Web developer
-    range: Jan. 2011 — Sept. 2014
+    range: Jun. 2011 — Sept. 2014
 - title: Education
   type: entries
   entries:
@@ -53,5 +52,6 @@ blocks:
     link: http://www.marist.edu/academics/honors
     description: Member of the Honors Program
     range: Aug. 2013 — present
+layout: information
 ---
 
