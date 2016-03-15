@@ -3,7 +3,7 @@ title: 'Racked: "The Last Lifestyle Magazine"'
 date: 2016-03-15 15:08:00 -04:00
 ---
 
-_Racked_ took a look at _Kinfolk_, the latest in a long line of lifestyle magazines that have spawned a media empire. Like _Monocle_ before it, _Kinfolk_ represents a particular aesthetic and lifestyle that many (especially young people) aspire to.
+[_Racked_ took a look at _Kinfolk_](http://www.racked.com/2016/3/14/11173148/kinfolk-lifestyle-magazines), the latest in a long line of lifestyle magazines that have spawned a media empire. Like _Monocle_ before it, _Kinfolk_ represents a particular aesthetic and lifestyle that many (especially young people) aspire to.
 
 > A lifestyle is made up of a shared vernacular. My Instagram was so popular because my friends recognized a quiet coffee in a foreign city as a badge of the lifestyle that we aspire to. Perhaps these days we demonstrate our mutual recognition by exchanging likes rather than buying magazine subscriptions. Aspiration is mediated by digital technology rather than print. We model our lifestyle goals in Instagram photos because the medium is so accessible. We can publicly participate in our chosen lifestyles all the time, constantly signaling our belonging and getting affirmation in return, creating our own communities rather than waiting for the directions of an editor.
 >
