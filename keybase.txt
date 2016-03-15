@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ethnt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ethnt.me
+  * I am ethnt (https://keybase.io/ethnt) on keybase.
+  * I have a public key with fingerprint F1DF 8F39 EF0D 9056 0605  1AA5 CE83 93F6 D10C 36C4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010129bea109375a030b40ad6e09d071f47e7c9ade781a7508083efbbabd8629473b0a",
+            "fingerprint": "f1df8f39ef0d905606051aa5ce8393f6d10c36c4",
+            "host": "keybase.io",
+            "key_id": "ce8393f6d10c36c4",
+            "kid": "010129bea109375a030b40ad6e09d071f47e7c9ade781a7508083efbbabd8629473b0a",
+            "uid": "6c280518a29407ae313f23d225a53319",
+            "username": "ethnt"
+        },
+        "service": {
+            "hostname": "ethnt.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458074042,
+    "expire_in": 157680000,
+    "prev": "45363cbb74e340145154350f3f0f67b5ac0ddb59bef91ea8c781780ee9aa6c87",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIeAnicrVJbSBRRGF7NMrcsU0hM7WEEoRQ9M2euJpQuaKWQ0A2SWM7MnNkdXHfW
+2VnvRmUX6yENKUJNki6m0EsQ4YVq10UKjZIoSqSUSrog4Uv0UNYZKeihx87LOef/
+v+873/9xookrHM6YrLj72YX18w9jJsIdIceBDzXDTZRsqA1UQRNVhZc37FNx0HJX
+6SpVQAEa0IwkY0QDCQocAhDILEAqj4GkAoHWWAELioRULIg0EjggAhFiTZaRrIo8
+I7EClAGicilN93uwGTB1v0VkNVrVRA1KWAOqBDge8ICjEeIULEIJarxKAwXyCkuI
+XiNoM4g5GQVxnm6QGrm4l+39A/+ffYeW5XiFEYlDEZEOEBCGNNQYqDIMhzgIackG
+BrHpR9WYoLHlJVO25FKkVKsr2E7VHuPvdh455lIB07AMxfCRqteyAgU2yWoI2Kg6
+LLt/892y7ldJfoRQi82gbvipApogFUu3BWmWE4HAApbJpXB9QDexW7cRnMCLgCz7
+GVxLJFkO8lCRZYHFkAWERnMs5IAGNaDxgswhBaiqzJHYNInGSFRINoIIMJYQ4hVR
+oOyJavwG0aaJT+QhmkHd40dWyMRUS+RBZZwjxulYtTLW/lgOZ0LSn+/WXBb/7U3o
+ZdaZ0MgGFr76kfzsUmRfzajPFR6cdsXfZdqjCfnVSs7ZyZnx1587cdHozqHoxP49
+Q2mfNloDx6ovT2YUHV0/mBYxe3JCVzbPxyut1vhU8Uz6jYyTX4f3PjFeLGXsOp16
+/nmEWnpKfTl1Lcc5xiQ9nmvb8jG261zKVVe/V3mfnxyUsssa+5q72/IO9mw7VDjn
+ve1LTq5buFgx83YgUopbw6nH31Xo+ljhTfcC7JLWlqvrwn1HOrL6b015Qqs9iZGp
+7nulKW2Z39dt77xQPtK4daKkYTBFdaUvltxhT8zixWyquGfH7BprOtrWW5xZ+ejw
+7sze65vam39m6wu/ANpCOVU=
+=E9gY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ethnt
+
+==================================================================
