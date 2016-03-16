@@ -6,9 +6,10 @@ blocks:
 - title: About
   type: text
   body: I’m a student at [Marist College](http://marist.edu) pursuing a degree in
-    computer science with a focus on software development and a minor in graphic design.
-    I am also an intern at [Oak](http://oak.is),  a founder and web developer at [Ramona](http://ramona.clothing),
-    and was previously a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
+    computer science with a focus on software development and minors in graphic design,
+    information technology, and information systems. I am also an intern at [Oak](http://oak.is),  a
+    founder and web developer at [Ramona](http://ramona.clothing), and was previously
+    a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
 - title: Experience
   type: entries
   entries:
