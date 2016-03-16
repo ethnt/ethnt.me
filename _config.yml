@@ -3,9 +3,6 @@ title: Ethan Turkeltaub
 url: http://ethnt.me
 timezone: America/New_York
 collections:
-  people:
-    title: People
-    output: true
   posts:
     title: Posts
     output: true
