@@ -7,9 +7,8 @@ blocks:
   type: text
   body: I’m a student at [Marist College](http://marist.edu) pursuing a degree in
     computer science with a focus on software development and a minor in graphic design.
-    I am also an intern at [Oak](http://oak.is), the Chief Information Officer of
-    the [Marist College Student Government Association](http://sga.marist.edu), and
-    was previously a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
+    I am also an intern at [Oak](http://oak.is),  a founder and web developer at [Ramona](http://ramona.clothing),
+    and was previously a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
 - title: Experience
   type: entries
   entries:
@@ -24,7 +23,7 @@ blocks:
   - title: Marist College Student Government Association
     link: http://sga.marist.edu
     description: Chief Information Officer
-    range: Dec. 2014 — present
+    range: Dec. 2014 — May 2016
   - title: Fanzter
     link: http://en.wikipedia.org/wiki/Fanzter
     description: Intern → Web developer
