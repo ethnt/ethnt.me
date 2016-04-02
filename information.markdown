@@ -24,7 +24,7 @@ blocks:
   - title: Marist College Student Government Association
     link: http://sga.marist.edu
     description: Chief Information Officer
-    range: Dec. 2014 — May 2016
+    range: Dec. 2014 — Apr. 2016
   - title: Fanzter
     link: http://en.wikipedia.org/wiki/Fanzter
     description: Intern → Web developer
