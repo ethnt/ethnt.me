@@ -8,7 +8,7 @@ blocks:
   body: |-
     I’m a student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development and minors in graphic design, information technology, and information systems. I am also an intern at [Oak](http://oak.is),  a founder and web developer at [Ramona](http://ramona.clothing), and was previously a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
 
-    I am also available for freelance work! If you'd like to work with me on a web development project, [shoot me an email](mailto:ethan@ethnt.me).
+    I am also available for freelance work. If you'd like to work with me on a web development project, [shoot me an email](mailto:ethan@ethnt.me).
 - title: Experience
   type: entries
   entries:
