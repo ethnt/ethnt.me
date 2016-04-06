@@ -3,12 +3,6 @@ title: Information
 date: 2016-01-02 07:06:00 -05:00
 permalink: "/"
 blocks:
-- title: About
-  type: text
-  body: |-
-    I’m a web developer and student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development and minors in graphic design, information technology, and information systems. I am also an intern at [Oak](http://oak.is),  a founder and web developer at [Ramona](http://ramona.clothing), and was previously a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
-
-    I am also available for freelance web development work. If you'd like to work with me on a project, [shoot me an email](mailto:ethan@ethnt.me).
 - title: Experience
   type: entries
   entries:
@@ -54,3 +48,8 @@ blocks:
 layout: information
 ---
 
+I’m a student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development, with minors in graphic design, information systems, and information technology.
+
+I’m also a web developer that works primarily with Ruby, JavaScript, and occasionally Haskell. Currently, I’m an intern at [Oak](http://oak.is), working on [Siteleaf](http://siteleaf.com) and it’s documentation site [Siteleaf Learn](http://learn.siteleaf.com). I’m also a founder and web developer at [Ramona](http://ramona.clothing), a new fashion collaboration product. Previously, I was the Chief Information Officer for the [Marist College Student Government Association](http://sga.marist.edu) and a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
+
+I am also available for freelance web development work. If you want to work together on a project, [shoot me an email](mailto:ethan@ethnt.me). I'm currently <span data-availability-badge></span>.
