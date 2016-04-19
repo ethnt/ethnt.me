@@ -9,6 +9,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  work:
+    title: Work
+    output: true
 defaults:
 - scope:
     path: ''
