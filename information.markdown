@@ -2,6 +2,7 @@
 title: Information
 date: 2016-01-02 07:06:00 -05:00
 permalink: "/"
+position: 0
 blocks:
 - title: Experience
   type: entries
