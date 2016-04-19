@@ -19,14 +19,15 @@
     <script src="https://use.typekit.net/lux8yqy.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
-    <!-- <link href="//static.cushionapp.com/availability.css" rel="stylesheet"> -->
-    <script src="//static.cushionapp.com/availability.js" data-user="c346024f-7edb-44f2-b574-dd5dd3dbb30e"></script>
+    {% if page.url == "/" %}
+      <script src="//static.cushionapp.com/availability.js" data-user="c346024f-7edb-44f2-b574-dd5dd3dbb30e"></script>
+    {% endif %}
   </head>
   <body>
     <div id="page">
       <header class="header" role="header">
         <span class="header__logo">
-          <a href="{{ site.url }}">{{ site.title }}</a>
+          <a href="/">{{ site.title }}</a>
         </span>
         <nav class="nav header__nav">
           <ul class="nav__list nav__list--right">
@@ -53,7 +54,7 @@
             {% endfor %}
           </ul>
         </nav>
-        <p class="footer__copyright">&copy; 2016 <a href="{{ site.url }}">{{ site.title }}</a>.</p>
+        <p class="footer__copyright">&copy; 2016 <a href="/">{{ site.title }}</a>.</p>
       </footer>
     </div>
     {% include analytics.html %}
