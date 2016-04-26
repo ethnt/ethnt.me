@@ -10,7 +10,7 @@ blocks:
   - title: Oak
     link: http://oak.is
     description: Intern
-    range: Jan. 2015 — present
+    range: Jun. 2015 — present
   - 
   - title: Marist College Student Government Association
     link: http://sga.marist.edu
