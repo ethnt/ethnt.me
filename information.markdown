@@ -25,8 +25,8 @@ blocks:
   entries:
   - title: Marist College
     link: http://marist.edu
-    description: B.S. in Computer Science (software development), minors in graphic
-      design, information technology, and information systems
+    description: B.S. in Computer Science (software development concentration), minors
+      in graphic design, information technology, and information systems
     range: Aug. 2013 — May 2017
   - title: University College London
     link: http://ucl.ac.uk
