@@ -10,16 +10,16 @@ blocks:
   - title: Oak
     link: http://oak.is
     description: Intern
-    range: Jun. 2015 — present
+    range: Jun. 2015 – present
   - 
   - title: Marist College Student Government Association
     link: http://sga.marist.edu
     description: Chief Information Officer
-    range: Dec. 2014 — Apr. 2016
+    range: Dec. 2014 – Apr. 2016
   - title: Fanzter
     link: http://en.wikipedia.org/wiki/Fanzter
     description: Intern → Web developer
-    range: Jun. 2011 — Sept. 2014
+    range: Jun. 2011 – Sept. 2014
 - title: Education
   type: entries
   entries:
@@ -27,22 +27,22 @@ blocks:
     link: http://marist.edu
     description: B.S. in Computer Science (software development concentration), minors
       in graphic design, information technology, and information systems
-    range: Aug. 2013 — May 2017
+    range: Aug. 2013 – present
   - title: University College London
     link: http://ucl.ac.uk
     description: Affiliate Computer Science (term abroad)
-    range: Sept. 2015 — Dec. 2015
+    range: Sept. 2015 – Dec. 2015
 - title: Awards
   type: entries
   entries:
   - title: Marist College Technology Scholarship
     link: http://www.marist.edu/admission/technologyscholarships/
     description: Full four-year tuition, room, and board scholarship
-    range: Aug. 2013 — present
+    range: Aug. 2013 – present
   - title: Marist College Honors Program
     link: http://www.marist.edu/academics/honors
     description: Member of the Honors Program
-    range: Aug. 2013 — present
+    range: Aug. 2013 – present
 layout: information
 ---
 
