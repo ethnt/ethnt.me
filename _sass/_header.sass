@@ -1,0 +1,37 @@
+.header
+  +row
+
+  margin-bottom: rhythm(2)
+  padding-top: rhythm(3)
+
+  @media (max-width: $breakpoint)
+    padding-top: rhythm(2)
+
+  &:after
+    color: $color-grey
+    content: "—"
+    display: block
+
+  a
+    background: none
+
+  &__logo
+    +span(4 of 12)
+
+    display: block
+    font-weight: $font-weight-bold
+
+    @media (max-width: $breakpoint)
+      +span(last 12 of 12)
+
+  &__nav
+    +span(last 8 of 12)
+
+    @media (max-width: $breakpoint)
+      +span(last 12 of 12)
+
+    a
+      color: $color-grey
+
+      &:hover
+        color: $color-green

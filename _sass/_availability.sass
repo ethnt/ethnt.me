@@ -1,0 +1,12 @@
+$availability-states: ( available: $color-available, soon: $color-soon, unavailable: $color-unavailable, private: $color-private )
+
+.availability-badge
+  @each $state, $color in $availability-states
+    &.#{$state}
+      +border-link($color, 8px)
+
+      &:hover
+        +border-link(darken($color, 5%), 8px)
+
+  &:hover
+    color: $color-black

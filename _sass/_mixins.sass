@@ -1,0 +1,13 @@
+=font-smoothing($value: antialiased)
+  @if $value == antialiased
+    -webkit-font-smoothing: antialiased
+    -moz-osx-font-smoothing: grayscale
+  @else
+    -webkit-font-smoothing: subpixel-antialiased
+    -moz-osx-font-smoothing: auto
+
+=border-link($border-color, $height: 2px)
+  background: -webkit-linear-gradient(bottom, #fefefe 50%, $border-color 50%)
+  background-repeat: repeat-x
+  background-size: 100% $height
+  background-position: 0 26px

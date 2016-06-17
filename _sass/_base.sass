@@ -1,0 +1,26 @@
+html
+  border-top: 5px solid $color-light-grey
+
+body
+  +font-smoothing(antialiased)
+
+  background: $color-light-grey
+  color: $color-black
+  font-size: $font-size-base
+  font-family: $font-family-serif
+  line-height: $line-height-normal
+
+a
+  +border-link($color-grey)
+
+  color: darken($color-black, 10%)
+  text-decoration: none
+
+  &:hover
+    color: $color-green
+
+#page
+  background: $color-white
+
+.wf-loading
+  visibility: hidden
