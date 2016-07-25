@@ -38,10 +38,6 @@ blocks:
     link: http://www.marist.edu/admission/technologyscholarships/
     description: Full four-year tuition, room, and board scholarship
     range: Aug. 2013 – present
-  - title: Marist College Honors Program
-    link: http://www.marist.edu/academics/honors
-    description: Member of the Honors Program
-    range: Aug. 2013 – present
 layout: information
 ---
 
