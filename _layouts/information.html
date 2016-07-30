@@ -5,6 +5,7 @@ layout: default
 <div class="block">
   <h3 class="block__title">About</h3>
   <div class="block__body block__body--text">
+    <img src="{{ page.profile_image }}">
     {{ content }}
   </div>
 </div>
@@ -17,7 +18,9 @@ layout: default
         <div class="entry">
           <h4 class="entry__title"><a href="{{ entry.link }}">{{ entry.title }}</a></h4>
           <p class="entry__description">{{ entry.description }}</p>
-          <p class="entry__range">{{ entry.range }}</p>
+          {% if entry.range %}
+            <p class="entry__range">{{ entry.range }}</p>
+          {% endif %}
         </div>
       {% endfor %}
     </div>

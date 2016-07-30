@@ -31,6 +31,18 @@ blocks:
     link: http://ucl.ac.uk
     description: Affiliate Computer Science (term abroad)
     range: Sept. 2015 – Dec. 2015
+- title: Projects
+  type: entries
+  entries:
+  - title: Marvin
+    link: https://github.com/eturk/marvin
+    description: Marvin is a toy programming language written in Ruby.
+  - title: Rover
+    link: https://github.com/bienstudio/rover
+    description: Where do you want to go?
+  - title: Ikat
+    link: https://github.com/bienstudio/ikat
+    description: Ikat is an easy way to collect the products you love.
 - title: Awards
   type: entries
   entries:
@@ -38,6 +50,7 @@ blocks:
     link: http://www.marist.edu/admission/technologyscholarships/
     description: Full four-year tuition, room, and board scholarship
     range: Aug. 2013 – present
+profile_image: "/uploads/profile.jpg"
 layout: information
 ---
 

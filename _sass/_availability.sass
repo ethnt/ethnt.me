@@ -3,10 +3,11 @@ $availability-states: ( available: $color-available, soon: $color-soon, unavaila
 .availability-badge
   @each $state, $color in $availability-states
     &.#{$state}
-      +border-link($color, 8px)
+      // +border-link($color, 5px)
 
       &:hover
-        +border-link(darken($color, 5%), 8px)
+        color: $color
+        // +border-link(darken($color, 5%), 5px)
 
   &:hover
     color: $color-black
