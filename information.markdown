@@ -35,7 +35,7 @@ blocks:
   type: entries
   entries:
   - title: Marvin
-    link: https://github.com/eturk/marvin
+    link: https://github.com/ethnt/marvin
     description: Marvin is a toy programming language written in Ruby.
   - title: Rover
     link: https://github.com/bienstudio/rover
