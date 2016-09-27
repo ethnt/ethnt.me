@@ -34,15 +34,15 @@ blocks:
 - title: Projects
   type: entries
   entries:
+  - title: Amable
+    link: https://github.com/notfreshmen/amable
+    description: A kindness social network
   - title: Marvin
     link: https://github.com/ethnt/marvin
     description: Marvin is a toy programming language written in Ruby.
   - title: Rover
     link: https://github.com/bienstudio/rover
     description: Where do you want to go?
-  - title: Ikat
-    link: https://github.com/bienstudio/ikat
-    description: Ikat is an easy way to collect the products you love.
 - title: Awards
   type: entries
   entries:
