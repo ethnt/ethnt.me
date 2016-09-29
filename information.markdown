@@ -54,7 +54,7 @@ profile_image: "/uploads/profile.jpg"
 layout: information
 ---
 
-I’m a student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development, with minors in graphic design, information systems, and information technology. Lately, I've been exploring programming languages and compiler development, and plan to do [a senior thesis project on compiler construction with Ruby](https://github.com/ethnt/marvin).
+I’m a student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development, with minors in graphic design, information systems, and information technology.
 
 I’m also a web developer that works primarily with Ruby, JavaScript, and occasionally Haskell. I’ve been working in the web field for seven years, and I'm currently an intern at [Oak](http://oak.is), where I work primarily on [Siteleaf](http://siteleaf.com). Previously, I was the Chief Information Officer for the [Marist College Student Government Association](http://sga.marist.edu) and a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
 
