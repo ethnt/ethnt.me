@@ -1,5 +1,5 @@
 .information
-  max-width: 65vw
+  max-width: $container-width
 
   p + p
     margin-top: rhythm(1)
@@ -17,24 +17,24 @@
   span
     font-style: italic
 
-  .body
+  .bio
     margin-bottom: rhythm(2)
 
-.avatar
-  background-image: url('/uploads/avatar.jpg')
-  background-color: darken($color-green, 50%)
-  background-size: cover
-  background-blend-mode: screen
-  border-radius: 50%
-  display: inline
-  float: right
-  margin-left: 2rem
-  max-width: 20%
-  position: relative
-  width: 100%
-
-  &:before
-    display: block
-    content: ""
+  .avatar
+    background-image: url('/uploads/avatar.jpg')
+    background-color: darken($color-green, 50%)
+    background-size: cover
+    background-blend-mode: screen
+    border-radius: 50%
+    display: inline
+    float: right
+    margin-left: 2rem
+    max-width: 20%
+    position: relative
     width: 100%
-    padding-top: 100%
+
+    &:before
+      display: block
+      content: ""
+      width: 100%
+      padding-top: 100%
