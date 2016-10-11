@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="notes">
+  <h2>Notes</h2>
+  <ul>
+    {% for note in site.posts %}
+      <li>
+        <a href="{{ note.url }}">
+          <span>{{ note.title }}</span>
+          <span>{{ note.date | date:'%B %-d, %Y' }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

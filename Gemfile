@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.1.1'
-gem 'siteleaf', '~> 2.0.0.pre.beta9'
+ruby '2.3.1'
+
+gem 'jekyll'
