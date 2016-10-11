@@ -1,0 +1,18 @@
+<article class="note">
+  <header>
+    <figure>
+      {% for image in note.image_uploads %}
+        <a href="{{ image }}">
+          <img src="{{ image }}">
+        </a>
+      {% endfor %}
+    </figure>
+    <h2><a href="{{ note.url }}">{{ note.title }}</a></h2>
+  </header>
+  <section>
+    {{ note.content }}
+  </section>
+  <footer>
+    <p>{{ note.date | date:'%B %-d, %Y' }}</p>
+  </footer>
+</article>

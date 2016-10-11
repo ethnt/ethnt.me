@@ -2,27 +2,24 @@
 layout: default
 ---
 
-<div class="block">
-  <h3 class="block__title">About</h3>
-  <div class="block__body block__body--text">
-    <img src="{{ page.profile_image }}">
+<div class="information">
+  <div class="bio">
+    <span class="avatar"></span>
     {{ content }}
   </div>
-</div>
 
-{% for block in page.blocks %}
-  <div class="block">
-    <h3 class="block__title">{{ block.title }}</h3>
-    <div class="block__body">
-      {% for entry in block.entries %}
-        <div class="entry">
-          <h4 class="entry__title"><a href="{{ entry.link }}">{{ entry.title }}</a></h4>
-          <p class="entry__description">{{ entry.description }}</p>
-          {% if entry.range %}
-            <p class="entry__range">{{ entry.range }}</p>
-          {% endif %}
-        </div>
-      {% endfor %}
-    </div>
+  <div class="sections">
+    {% for block in page.blocks %}
+      <section>
+        <h3>{{ block.title }}</h3>
+        {% for entry in block.entries %}
+          <article>
+            <h4><a href="{{ entry.link }}">{{ entry.title }}</a></h4>
+            <p>{{ entry.description }}</p>
+            <span>{{ entry.range }}</span>
+          </article>
+        {% endfor %}
+      </section>
+    {% endfor %}
   </div>
-{% endfor %}
+</div>

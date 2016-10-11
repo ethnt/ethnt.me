@@ -1,37 +1,25 @@
-.header
-  +row
+header[role="banner"]
+  margin: rhythm(4) 0 rhythm(2) rhythm(4)
+  max-width: $container-width
 
-  margin-bottom: rhythm(2)
-  padding-top: rhythm(3)
+  h1, nav
+    display: inline-block
 
-  @media (max-width: $breakpoint)
-    padding-top: rhythm(2)
-
-  &:after
-    color: $color-grey
-    content: "—"
-    display: block
-
-  a
-    background: none
-
-  &__logo
-    +span(4 of 12)
-
-    display: block
+  h1
     font-weight: $font-weight-bold
 
-    @media (max-width: $breakpoint)
-      +span(last 12 of 12)
-
-  &__nav
-    +span(last 8 of 12)
-
-    @media (max-width: $breakpoint)
-      +span(last 12 of 12)
+    &:after
+      content: '—'
+      opacity: 0.25
+      font-weight: $font-weight-light
+      padding: 0 rhythm(0.25) 0 rhythm(0.25)
 
     a
-      color: $color-grey
+      background: none
 
-      &:hover
-        color: $color-green
+  li
+    display: inline-block
+    margin-right: rhythm(0.25)
+
+    a
+      opacity: 0.6

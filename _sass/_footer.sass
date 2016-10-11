@@ -1,18 +1,18 @@
-.footer
-  +row
+footer[role="footer"]
+  opacity: 0.6
+  margin-left: rhythm(4)
+  margin-top: rhythm(2)
+  margin-bottom: rhythm(2)
+  max-width: $container-width
 
-  padding-bottom: rhythm(2)
-  margin-top: rhythm(3)
+  p, nav
+    display: inline-block
 
-  &:before
-    color: $color-grey
-    content: "—"
-    display: block
+  nav
+    float: right
 
-  &__nav
-    a
-      background: none
-      color: $color-grey
+  li
+    display: inline-block
 
-      &:hover
-        color: $color-green
+    & + li
+      margin-left: rhythm(0.25)

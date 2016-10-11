@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="note">
+  <header>
+    <figure>
+      {% for image in page.image_uploads %}
+        <a href="{{ image }}">
+          <img src="{{ image }}">
+        </a>
+      {% endfor %}
+    </figure>
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+  </header>
+  <section>
+    {{ page.content }}
+  </section>
+  <footer>
+    <p>{{ page.date | date:'%B %-d, %Y' }}</p>
+  </footer>
+</article>
