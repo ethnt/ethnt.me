@@ -12,12 +12,19 @@
   header
     margin-right: rhythm(4)
 
+    @media (max-width: $breakpoint)
+      margin-right: rhythm(1)
+
   figure
     a
       background: none
 
   section
     max-width: $container-width
+
+    @media (max-width: $breakpoint)
+      max-width: 100%
+      margin-right: rhythm(1)
 
   footer
     font-style: italic
