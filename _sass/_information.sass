@@ -1,6 +1,10 @@
 .information
   max-width: $container-width
 
+  @media (max-width: $breakpoint)
+    max-width: 100%
+    margin-right: rhythm(1)
+
   p + p
     margin-top: rhythm(1)
 
@@ -32,6 +36,9 @@
     max-width: 20%
     position: relative
     width: 100%
+
+    @media (max-width: $breakpoint)
+      display: none
 
     &:before
       display: block

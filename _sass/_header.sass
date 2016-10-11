@@ -2,17 +2,27 @@ header[role="banner"]
   margin: rhythm(4) 0 rhythm(2) rhythm(4)
   max-width: $container-width
 
+  @media (max-width: $breakpoint)
+    margin-top: rhythm(2)
+    margin-left: rhythm(1)
+    margin-right: rhythm(1)
+    max-width: 100%
+
   h1, nav
     display: inline-block
+
+    @media (max-width: $breakpoint)
+      display: block
 
   h1
     font-weight: $font-weight-bold
 
-    &:after
-      content: '—'
-      opacity: 0.25
-      font-weight: $font-weight-light
-      padding: 0 rhythm(0.25) 0 rhythm(0.25)
+    @media (min-width: $breakpoint)
+      &:after
+        content: '—'
+        opacity: 0.25
+        font-weight: $font-weight-light
+        padding: 0 rhythm(0.25) 0 rhythm(0.25)
 
     a
       background: none
