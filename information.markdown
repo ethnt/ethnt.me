@@ -3,7 +3,6 @@ title: Information
 date: 2016-10-11 00:15:00 -04:00
 permalink: "/"
 position: 0
-layout: information
 blocks:
 - title: Experience
   type: entries
@@ -51,9 +50,10 @@ blocks:
     link: http://www.marist.edu/admission/technologyscholarships/
     description: Full four-year tuition, room, and board scholarship
     range: Aug. 2013 – present
+layout: information
 ---
 
-I’m a student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development and minors in graphic design, information systems, and information technology. Lately, I've been exploring programming languages and compiler development, and plan to do a senior thesis project on compiler construction with Ruby.
+I’m a student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development and minors in graphic design, information systems, and information technology. Lately, I've been exploring programming languages and compiler development, as well as functional programming languages.
 
 I’m also a web developer that works primarily with Ruby, JavaScript, and occasionally Haskell. I’ve been working in the web field for seven years, and I'm currently an intern at [Oak](http://oak.is), where I work primarily on [Siteleaf](http://siteleaf.com). Previously, I was the Chief Information Officer for the [Marist College Student Government Association](http://sga.marist.edu) and a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
 
