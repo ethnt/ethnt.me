@@ -11,15 +11,11 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: notes
     type: posts
   values:
-    permalink: "/notes/:title"
+    permalink: "/notes/:title/"
     layout: note
+url: http://ethnt.me
 permalink: pretty
 ga: UA-33270842-1
 social:
