@@ -2,9 +2,6 @@
 title: Ethan Turkeltaub
 timezone: America/New_York
 collections:
-  notes:
-    title: Notes
-    output: true
   posts:
     title: Posts
     output: true

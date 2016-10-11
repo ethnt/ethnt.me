@@ -1,6 +1,6 @@
 ---
 title: Information
-date: 1969-12-31 19:00:00 -05:00
+date: 2016-10-11 00:15:00 -04:00
 permalink: "/"
 position: 0
 layout: information
