@@ -1,5 +1,19 @@
 ---
 title: London, 2016
 date: 2016-10-11 17:26:00 -04:00
+images:
+- "/uploads/london001.jpg"
+- "/uploads/london002.jpg"
+- "/uploads/london003.jpg"
+- "/uploads/london004.jpg"
+- "/uploads/london005.jpg"
+- "/uploads/london006.jpg"
+- "/uploads/london007.jpg"
+- "/uploads/london008.jpg"
+- "/uploads/london009.jpg"
+- "/uploads/london010.jpg"
+- "/uploads/london011.jpg"
+- "/uploads/london012.jpg"
+- "/uploads/london013.jpg"
 ---
 
