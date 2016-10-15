@@ -28,9 +28,9 @@ social:
 sass:
   style: compressed
 exclude:
-- 'node_modules/'
-- 'Gemfile*'
-- 'Gulpfile.js'
-- 'package.json'
-- 'README.md'
-- 'yarn.lock'
+- node_modules/
+- Gemfile*
+- Gulpfile.js
+- package.json
+- README.md
+- yarn.lock
