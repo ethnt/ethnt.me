@@ -1,0 +1,17 @@
+{
+  "name": "ethnt.me",
+  "version": "0.2.0",
+  "main": "Gulpfile",
+  "repository": {
+    "url": "git@github.com:ethnt/ethnt.me.git",
+    "type": "git"
+  },
+  "author": "Ethan Turkeltaub <ethan.turkeltaub@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0",
+    "vanilla-lazyload": "^2.1.1"
+  }
+}

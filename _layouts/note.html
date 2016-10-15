@@ -4,14 +4,15 @@ layout: default
 
 <article class="note">
   <header>
-    <figure>
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+    <div class="photos">
       {% for image in page.images %}
         <a href="{{ image }}">
-          <img src="{{ image }}">
+          <!-- <img src="{{ image }}"> -->
+          <img data-original="{{ image }}" />
         </a>
       {% endfor %}
-    </figure>
-    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+    </div>
   </header>
   <section>
     {{ page.content }}
