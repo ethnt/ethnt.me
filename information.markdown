@@ -44,6 +44,9 @@ blocks:
   - title: Ikat
     link: https://github.com/bienstudio/ikat
     description: Ikat is an easy way to collect the products you love
+  - title: Amable
+    link: https://github.com/notfreshmen/amable
+    description: The kindness social network
 - title: Awards
   type: entries
   entries:
