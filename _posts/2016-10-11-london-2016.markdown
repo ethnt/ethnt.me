@@ -4,17 +4,6 @@ date: 2016-10-11 17:26:00 -04:00
 images:
 - "/uploads/london001.jpg"
 - "/uploads/london002.jpg"
-- "/uploads/london003.jpg"
-- "/uploads/london004.jpg"
-- "/uploads/london005.jpg"
-- "/uploads/london006.jpg"
-- "/uploads/london007.jpg"
-- "/uploads/london008.jpg"
-- "/uploads/london009.jpg"
-- "/uploads/london010.jpg"
-- "/uploads/london011.jpg"
-- "/uploads/london012.jpg"
-- "/uploads/london013.jpg"
 ---
 
-In September of 2016, I visited my girlfriend Eliza while she was studying abroad in London. I feel very lucky that I was able to go — I was very fortunate that I was able to find the time and the resources to visit my favorite person in my favorite city.
+In September of 2016, I visited my girlfriend Eliza while she was studying abroad in London. I feel very lucky that I was able to go -- I was very fortunate that I was able to find the time and the resources to visit my favorite person in my favorite city.

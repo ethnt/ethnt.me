@@ -27,3 +27,10 @@ social:
   url: http://ethnt.tumblr.com
 sass:
   style: compressed
+exclude:
+- node_modules/
+- Gemfile*
+- Gulpfile.js
+- package.json
+- README.md
+- yarn.lock
