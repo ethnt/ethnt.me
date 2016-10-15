@@ -36,13 +36,14 @@ blocks:
   entries:
   - title: Marvin
     link: https://github.com/ethnt/marvin
-    description: Marvin is a toy programming language written in Ruby.
+    description: Marvin is a toy programming language written in Ruby
   - title: Rover
     link: https://github.com/bienstudio/rover
-    description: Where do you want to go?
+    description: Rover is a web application that simplifies planning and organizing
+      your trip
   - title: Ikat
     link: https://github.com/bienstudio/ikat
-    description: Ikat is an easy way to collect the products you love.
+    description: Ikat is an easy way to collect the products you love
 - title: Awards
   type: entries
   entries:
