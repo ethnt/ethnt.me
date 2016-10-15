@@ -53,8 +53,8 @@ blocks:
 layout: information
 ---
 
-I’m a student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development and minors in graphic design, information systems, and information technology. Lately, I've been exploring programming languages and compiler development, as well as functional programming languages.
+I'm a student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development, as well as minors in graphic design, information systems, and information technology.
 
-I’m also a web developer that works primarily with Ruby, JavaScript, and occasionally Haskell. I’ve been working in the web field for seven years, and I'm currently an intern at [Oak](http://oak.is), where I work primarily on [Siteleaf](http://siteleaf.com). Previously, I was the Chief Information Officer for the [Marist College Student Government Association](http://sga.marist.edu) and a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
+I'm also a web developer that works primarily with Ruby, JavaScript, and occasionally Haskell. I’ve been working in the web field for seven years, and I'm currently an intern at [Oak](http://oak.is), where I work primarily on [Siteleaf](http://siteleaf.com). Previously, I was the Chief Information Officer for the [Marist College Student Government Association](http://sga.marist.edu) and a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
 
 I am also available for freelance web development work. If you want to work together on a project, [shoot me an email](mailto:ethan.turkeltaub@gmail.com).
