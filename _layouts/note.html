@@ -8,8 +8,10 @@ layout: default
     <div class="photos">
       {% for image in page.images %}
         <a href="{{ image }}">
-          <!-- <img src="{{ image }}"> -->
-          <img data-original="{{ image }}" />
+          <img data-original="{{ image }}">
+          <noscript>
+            <img src="{{ image }}">
+          </noscript>
         </a>
       {% endfor %}
     </div>
