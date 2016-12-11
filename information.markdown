@@ -38,7 +38,7 @@ blocks:
     link: https://github.com/ethnt/marvin
     description: Marvin is a toy programming language written in Ruby
   - title: Rover
-    link: https://github.com/bienstudio/rover
+    link: http://gorover.co
     description: Rover is a web application that simplifies planning and organizing
       your trip
   - title: Ikat
