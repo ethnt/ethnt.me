@@ -15,9 +15,16 @@ defaults:
   values:
     permalink: "/notes/:title/"
     layout: note
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 url: http://ethnt.me
 permalink: pretty
+primary_color: "#c7d4be"
 ga: UA-33270842-1
+typekit: tbr5vxj
 social:
 - name: Twitter
   url: https://twitter.com/ethnt

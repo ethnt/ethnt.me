@@ -11,7 +11,7 @@
 
     <link href="/assets/application.css" rel="stylesheet">
 
-    <script src="https://use.typekit.net/tbr5vxj.js"></script>
+    <script src="https://use.typekit.net/{{ site.typekit }}.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
   </head>
   <body>
@@ -19,7 +19,7 @@
       <h1><a href="/">{{ site.title }}</a></h1>
       <nav>
         <ul>
-          {% assign pages = site.pages | sort:"pages" %}
+          {% assign pages = site.pages | sort:"position" %}
           {% for page in pages %}
             {% if page.title %}
               <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
@@ -32,7 +32,7 @@
       {{ content }}
     </main>
     <footer role="footer">
-      <p><a href="/">Ethan Turkeltaub</a> fecit 2016.</p>
+      <p><a href="/">{{ site.title }}</a> fecit {{ 'now' | date: '%Y' }}.</p>
       <nav>
         <ul>
           {% for social in site.social %}

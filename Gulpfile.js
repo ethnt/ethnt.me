@@ -3,7 +3,6 @@ var concat = require('gulp-concat')
 var uglify = require('gulp-uglify')
 
 var js = [
-  './node_modules/vanilla-lazyload/dist/vanilla-lazyload.js',
   './_jsc/application.js'
 ]
 
