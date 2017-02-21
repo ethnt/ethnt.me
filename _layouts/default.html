@@ -17,22 +17,12 @@
   <body>
     <header role="banner">
       <h1><a href="/">{{ site.title }}</a></h1>
-      <nav>
-        <ul>
-          {% assign pages = site.pages | sort:"position" %}
-          {% for page in pages %}
-            {% if page.title %}
-              <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
     </header>
     <main role="main">
       {{ content }}
     </main>
     <footer role="footer">
-      <p><a href="/">{{ site.title }}</a> fecit {{ 'now' | date: '%Y' }}.</p>
+      <p>&copy; {{ 'now' | date: '%Y' }} <a href="/">{{ site.title }}</a>.</p>
       <nav>
         <ul>
           {% for social in site.social %}

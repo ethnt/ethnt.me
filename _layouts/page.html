@@ -2,7 +2,34 @@
 layout: default
 ---
 
-<div class="page">
-  <h2 class="page__title">{{ page.title }}</h2>
-  {{ content }}
+<div class="information">
+  <div class="bio">
+    <span class="avatar"></span>
+    {{ content }}
+  </div>
+
+  <div class="sections">
+    {% assign collections = site.collections | where_exp:"collection","collection.on_page == true" | sort:"position" %}
+    {% for collection in collections %}
+      <section>
+        <h3>{{ collection.title }}</h3>
+        {% assign documents = collection.docs | sort:"position" %}
+        {% for document in documents %}
+          <article>
+            <h4><a href="{{ document.link }}">{{ document.title }}</a></h4>
+            {{ document.content }}
+            {% if document.dates %}
+              <span>
+                {{ document.dates.start }}
+                {% if document.dates.end %}
+                  &ndash;
+                  {{ document.dates.end }}
+                {% endif %}
+              </span>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </section>
+    {% endfor %}
+  </div>
 </div>

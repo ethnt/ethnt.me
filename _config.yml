@@ -2,19 +2,33 @@
 title: Ethan Turkeltaub
 timezone: America/New_York
 collections:
+  awards:
+    title: Awards
+    output: false
+    position: 4
+    on_page: true
+  education:
+    title: Education
+    output: false
+    position: 2
+    on_page: true
+  experience:
+    title: Experience
+    output: false
+    position: 1
+    on_page: true
   posts:
     title: Posts
     output: true
+  projects:
+    title: Projects
+    output: false
+    position: 3
+    on_page: true
   uploads:
     title: Uploads
     output: true
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/notes/:title/"
-    layout: note
 - scope:
     path: ''
     type: pages
@@ -23,7 +37,8 @@ defaults:
 url: http://ethnt.me
 permalink: pretty
 primary_color: "#c7d4be"
-ga: UA-33270842-1
+avatar_url: "/uploads/avatar.jpg"
+google_analytics: UA-33270842-1
 typekit: tbr5vxj
 social:
 - name: Twitter
