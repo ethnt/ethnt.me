@@ -8,28 +8,9 @@ header[role="banner"]
     margin-right: rhythm(1)
     max-width: 100%
 
-  h1, nav
-    display: inline-block
-
-    @media (max-width: $breakpoint)
-      display: block
-
   h1
+    display: block
     font-weight: $font-weight-bold
-
-    @media (min-width: $breakpoint)
-      &:after
-        content: '—'
-        opacity: 0.25
-        font-weight: $font-weight-light
-        padding: 0 rhythm(0.25) 0 rhythm(0.25)
 
     a
       background: none
-
-  li
-    display: inline-block
-    margin-right: rhythm(0.25)
-
-    a
-      opacity: 0.6
