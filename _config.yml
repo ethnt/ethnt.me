@@ -2,29 +2,32 @@
 title: Ethan Turkeltaub
 timezone: America/New_York
 collections:
-  uploads:
-    title: Uploads
-    output: true
-  experience:
-    title: Experience
+  awards:
+    title: Awards
     output: false
-    position: 1
+    position: 4
     on_page: true
   education:
     title: Education
     output: false
     position: 2
     on_page: true
+  experience:
+    title: Experience
+    output: false
+    position: 1
+    on_page: true
+  posts:
+    title: Posts
+    output: true
   projects:
     title: Projects
     output: false
     position: 3
     on_page: true
-  awards:
-    title: Awards
-    output: false
-    position: 4
-    on_page: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
