@@ -37,7 +37,7 @@ defaults:
 url: http://ethnt.me
 permalink: pretty
 primary_color: "#c7d4be"
-avatar_url: "/uploads/avatar.jpg"
+avatar_image: "/uploads/avatar.jpg"
 google_analytics: UA-33270842-1
 typekit: tbr5vxj
 social:
