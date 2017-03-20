@@ -7,4 +7,4 @@ dates:
   end: present
 ---
 
-Intern &rarr; Web developer
+Intern &rarr; Web Developer
