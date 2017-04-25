@@ -7,4 +7,4 @@ dates:
   end: May 2017
 ---
 
-B.S. in Computer Science (software development concentration), with minors in graphic design, information technology, and information systems
+B.S. in Computer Science (software development concentration), with minors in information technology and information systems
