@@ -5,6 +5,8 @@ permalink: "/"
 position: 0
 ---
 
-I'm a student at [Marist College](http://marist.edu) pursuing a degree in computer science with a focus on software development, as well as minors in graphic design, information systems, and information technology. Particularly, I've focused on web development and programming languages.
+Hi, my name’s Ethan, and I’m a software developer. I use Ruby, JavaScript, and occasionally Haskell to make web applications. I’ve been in the web field for six years, and I’m currently a web developer at [Oak](https://oak.is), where I work on [Siteleaf](https://siteleaf.com). Previously, I was a web developer at [Fanzter](https://en.wikipedia.org/wiki/Fanzer).
 
-I'm also a web developer that works primarily with Ruby, JavaScript, and occasionally Haskell. I’ve been working in the web field for ten years, and I'm currently a web developer at [Oak](https://oak.is), where I work on [Siteleaf](https://siteleaf.com/). Previously, I was the Chief Information Officer for the [Marist College Student Government Association](http://sga.marist.edu) and a web developer at [Fanzter](http://en.wikipedia.org/wiki/Fanzter).
+Right now I’m also working on improving the way we plan and organize our travel with [Rover](http://gorover.co). In the past, I’ve worked on projects with the [Marist College Student Government Association](http://sga.marist.edu) and other organizations.
+
+I’m available for freelance work! If you need help on a web project, [drop me a line](mailto:ethan@ethnt.me).
