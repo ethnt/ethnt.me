@@ -1,7 +1,7 @@
 ---
-title: Rover
+title: Gone
 position: 2
-link: http://gorover.co
+link: https://github.com/ethnt/gone
 ---
 
-Rover is a web application that simplifies planning and organizing your trip
+Gone is a web product that simplifies planning and organizing your vacation
