@@ -5,8 +5,10 @@ permalink: "/"
 position: 0
 ---
 
-Hi, my name’s Ethan, and I’m a software developer. I use Ruby, JavaScript, and occasionally Haskell to make mostly web applications. I’ve been in the web field for six years, and I’m currently a web developer at [Oak](https://oak.is), where I work on projects like [Siteleaf](https://siteleaf.com), [Working Not Working](https://workingnotworking.com/), and [CreativeMornings](https://creativemornings.com/). Previously, I was a web developer at [Fanzter](https://en.wikipedia.org/wiki/Fanzer).
+Hi, my name's Ethan Turkeltaub. I'm a software developer using Ruby, JavaScript, and occasionally Haskell to make web products. I've been in the web field for six years, and I'm currently a web developer at [Oak](https://oak.is), where I work on projects like [Siteleaf](https://siteleaf.com), [Dropmark](https://dropmark.com), [CreativeMornings](https://creativemornings.com/), and [Working Not Working](https://workingnotworking.com/). Previously, I was a web developer at [Fanzter](https://en.wikipedia.org/wiki/Fanzer).
 
-Right now I’m also working on improving the way we plan and organize our travel with [Rover](http://gorover.co). In the past, I’ve worked on projects with the [Marist College Student Government Association](http://sga.marist.edu) and other organizations.
+In terms of side projects, right now I'm working on improving the way we plan and organize our travel with a new product called Gone. I also created a the compiler and interpreter for a toy programming language called [Marvin](https://github.com/ethnt/marvin).
 
-I’m available for freelance work! If you need help on a web project, [drop me a line](mailto:ethan@ethnt.me).
+In the past, I've worked on projects with the [Marist College Student Government Association](http://sga.marist.edu), and I've freelanced for clients in housing, travel, and more.
+
+I'm currently available for freelance work! If you need help on a web or design project, [drop me a line](mailto:ethan@ethnt.me).
