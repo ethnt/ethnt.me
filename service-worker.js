@@ -2,6 +2,7 @@ const PRECACHE = 'precache-v1';
 const RUNTIME = 'runtime';
 
 const PRECACHE_URLS = [
+  'https://use.typekit.net/tbr5vxj.css',
   'assets/application.css',
   'index.html',
   './',
