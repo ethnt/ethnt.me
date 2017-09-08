@@ -1,0 +1,16 @@
+{
+  "name": "Ethan Turkeltaub",
+  "short_name": "Ethan Turkeltaub",
+  "start_url": ".",
+  "lang": "en-US",
+  "display": "browser",
+  "background_color": "#c7d4be",
+  "description": "The website of software developer Ethan Turkeltaub.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "50x50",
+      "type": "image/png"
+    }
+  ]
+}
