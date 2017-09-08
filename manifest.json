@@ -1,15 +1,20 @@
+---
+layout: null
+---
+
 {
-  "name": "Ethan Turkeltaub",
-  "short_name": "ethnt.me",
+  "name": "{{ site.manifest.name }}",
+  "short_name": "{{ site.manifest.short_name }}",
   "start_url": ".",
   "lang": "en-US",
-  "display": "browser",
-  "background_color": "#c7d4be",
-  "description": "The website of software developer Ethan Turkeltaub.",
+  "display": "standalone",
+  "background_color": "{{ site.primary_color }}",
+  "theme_color": "{{ site.primary_color }}",
+  "description": "{{ site.description }}",
   "icons": [
     {
       "src": "favicon.png",
-      "sizes": "50x50",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
