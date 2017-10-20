@@ -1,7 +1,7 @@
 ---
-title: Gone
+title: Carto
 position: 2
-link: https://github.com/ethnt/gone
+link: https://github.com/getcarto/carto
 ---
 
-Gone is a web product that simplifies planning and organizing your vacation
+Carto is a web product that simplifies planning and organizing your vacation
