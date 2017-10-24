@@ -9,6 +9,6 @@ Hi, my name's Ethan Turkeltaub. I'm a software developer using Ruby, JavaScript,
 
 In terms of side projects, right now I'm working on improving the way we plan and organize our travel with a new product called [Carto](https://github.com/getcarto/carto). I also created a compiler and interpreter for a toy programming language called [Marvin](https://github.com/ethnt/marvin).
 
-In the past, I've worked on projects with the [Marist College Student Government Association](http://sga.marist.edu), and I've freelanced for clients in housing, travel, and more.
+In the past, I've worked on projects with the [Marist College Student Government Association](http://sga.marist.edu), and I've freelanced for clients in housing, travel, and other industries.
 
 I'm currently available for freelance work! If you need help on a web or design project, [drop me a line](mailto:ethan@ethnt.me).
