@@ -1,7 +1,7 @@
 ---
-title: Carto
+title: Headcount
 position: 2
-link: https://github.com/getcarto/carto
+link: https://github.com/nutmeg-works/headcount
 ---
 
-Carto is a web product that simplifies planning and organizing your vacation
+Headcount is a web product that helps manage teams
