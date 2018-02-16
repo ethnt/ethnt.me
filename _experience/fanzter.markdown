@@ -7,4 +7,4 @@ dates:
   end: Sep. 2014
 ---
 
-Intern &rarr; Web Developer
+Web Developer
