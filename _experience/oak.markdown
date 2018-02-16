@@ -7,4 +7,4 @@ dates:
   end: present
 ---
 
-Intern &rarr; Full Stack Web Developer
+Full Stack Web Developer
