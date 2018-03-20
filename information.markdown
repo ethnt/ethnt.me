@@ -5,6 +5,8 @@ permalink: "/"
 position: 0
 ---
 
-I'm a software developer using Ruby, JavaScript, and occasionally Haskell to make web products. I've been in the web field for six years, and I'm currently a software engineer [Aircall](https://aircall.io/). Previously, I was a full-stack web developer at [Oak](https://oak.is) (working on [Siteleaf](https://siteleaf.com) and [CreativeMornings](https://creativemornings) and a web developer at [Fanzter](https://en.wikipedia.org/wiki/Fanzter).
+I'm a software developer using Ruby, JavaScript, and occasionally Haskell to make web products. I've been in the web field for six years, and I'm currently a software engineer [Aircall](https://aircall.io/). Previously, I was a full-stack web developer at [Oak](https://oak.is) (working on [Siteleaf](https://siteleaf.com) and [CreativeMornings](https://creativemornings)) and a web developer at [Fanzter](https://en.wikipedia.org/wiki/Fanzter).
 
-I'm currently available for freelance work! If you need help on a web or design project, [drop me a line](mailto:ethan@ethnt.me).
+In the past, I’ve worked on projects with the [Marist College Student Government Association](http://sga.marist.edu), and I’ve freelanced for clients in housing, travel, and other industries.
+
+I'm currently <span class="js-availability"></span>.
