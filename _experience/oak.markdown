@@ -7,4 +7,4 @@ dates:
   end: Mar. 2018
 ---
 
-Full Stack Web Developer
+Full Stack Developer
