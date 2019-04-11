@@ -9,4 +9,4 @@ I'm a software developer using Ruby, JavaScript, and occasionally Haskell to mak
 
 In the past, I’ve worked on projects with the [Marist College Student Government Association](http://sga.marist.edu), and I’ve freelanced for clients in housing, travel, and other industries.
 
-I'm currently <span class="js-availability"></span>.
+I'm currently <span class="js-availability"></span>
